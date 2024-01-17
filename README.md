@@ -15,23 +15,21 @@ Nowadays, I have acquired the skills necessary for front-end development and am 
 ## Skills
 Here are some of the technologies I've been working with:
 
-- ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode)
-- ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)
-- ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js)
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss)
-- ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass)
-- ![Vuex](https://img.shields.io/badge/-Vuex-35495E?style=flat-square&logo=vue.js)
-- ![Pinia](https://img.shields.io/badge/-Pinia-42b883?style=flat-square&logo=pinia)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+<p>
+  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img alt="Vuex" src="https://img.shields.io/badge/Vuex-35495E?style=for-the-badge&logo=vuex&logoColor=white" />
+  <img alt="Pinia" src="https://img.shields.io/badge/Pinia-42b883?style=for-the-badge&logo=pinia&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
 
 ---
 
 I'm always open to new challenges and opportunities to grow. Let's connect and create something amazing together!
-
-[![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reza-Golnari)](https://github.com/Reza-Golnari/github-readme-stats)
-
 
 ## Connect with me:
 - Email: [i.am.reza.programmer@gmail.com](mailto:i.am.reza.programmer@gmail.com)
