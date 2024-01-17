@@ -16,20 +16,11 @@ Nowadays, I have acquired the skills necessary for front-end development and am 
 Here are some of the technologies I've been working with:
 
 <p align="center">
-  
-  <!-- Vue.js -->
-  <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" width="60" height="60"/>
-  <!-- Nuxt.js -->
-  <img src="https://img.icons8.com/color/48/000000/nuxt-js.png" alt="Nuxt.js" width="60" height="60"/>
-  <!-- Tailwind CSS -->
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="60" height="60"/>
-  <!-- Sass -->
-  <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" width="60" height="60"/>
-  <!-- JavaScript -->
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="60" height="60"/>
-  <!-- TypeScript -->
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="60" height="60"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,sass,git,github,bootstrap,tailwind,vue,nuxt,javascript,typescript,postman" />
+  </a>
 </p>
+
 
 
 
