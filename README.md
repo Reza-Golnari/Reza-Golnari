@@ -6,9 +6,6 @@ My name is Reza, and I'm a 17-year-old with a deep-seated passion for computers 
 ## Personal Life
 In my personal life, I aim to be highly organized. I relish waking up at 4 AM, enjoy working out and bodybuilding, and love maintaining a healthy lifestyle.
 
-## Today
-Nowadays, I have acquired the skills necessary for front-end development and am focused on further developing and deepening my expertise in this area.
-
 ## Skills
 Here are some of the technologies I've been working with:
 
