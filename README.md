@@ -3,9 +3,6 @@
 ## About Me
 My name is Reza, and I'm a 17-year-old with a deep-seated passion for computers and technology. I was introduced to programming at the age of 14, and since then, I've been exploring the world of coding and its various branches. My journey led me to discover a keen interest in web development, and I began my career by learning front-end development.
 
-## My Journey
-After mastering the basics of front-end, I started practicing by implementing small projects, gradually enhancing my skills and moving on to larger, more complex projects. I've collaborated with many individuals along the way and continue to enjoy teamwork, always striving to be a valuable contributor in any setting.
-
 ## Personal Life
 In my personal life, I aim to be highly organized. I relish waking up at 4 AM, enjoy working out and bodybuilding, and love maintaining a healthy lifestyle.
 
