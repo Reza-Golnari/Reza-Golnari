@@ -3,9 +3,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ## About Me
-My name is Reza, and I'm a 17-year-old with a deep-seated passion for computers and technology. I was introduced to programming at the age of 14, and since then, I've been exploring the world of coding and its various branches. My journey led me to discover a keen interest in web development, and I began my career by learning front-end development.
-
-## Personal Life
+My name is Reza Golnari, and I have been working in the field of programming and website development for several years.
 In my personal life, I aim to be highly organized. I relish waking up at 4 AM, enjoy working out and bodybuilding, and love maintaining a healthy lifestyle.
 
 - 🌱 I’m currently learning **Canvas , Node.js , Express.js , React and React Native**
