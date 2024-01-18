@@ -6,7 +6,7 @@
 My name is Reza Golnari, and I have been working in the field of programming and website development for several years.
 In my personal life, I aim to be highly organized. I relish waking up at 4 AM, enjoy working out and bodybuilding, and love maintaining a healthy lifestyle.
 
-- 🌱 I’m currently learning **Canvas , Node.js , Express.js , React and React Native**
+- 🌱 I’m currently learning **Canvas , React and React Native**
 
 - 💬 Ask me about **Vue , Nuxt , Javascript and Typescript**
 
