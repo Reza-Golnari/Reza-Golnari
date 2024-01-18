@@ -10,7 +10,7 @@ In my personal life, I aim to be highly organized. I relish waking up at 4 AM, e
 
 - 💬 Ask me about **Vue , Nuxt , Javascript and Typescript**
 
-- 📫 How to reach me **0913 718 0158**
+- 📫 How to reach me **+989137180158**
 
 ## Skills
 <p align="center">
@@ -38,7 +38,7 @@ In my personal life, I aim to be highly organized. I relish waking up at 4 AM, e
 I'm always open to new challenges and opportunities to grow. Let's connect and create something amazing together!
 ## Connect with me:
 - Email: [i.am.reza.programmer@gmail.com](mailto:i.am.reza.programmer@gmail.com)
-- Phone: 09137180158
+- Phone: +989137180158
 - Telegram: [@radon_dev](https://t.me/radon_dev)
 - Instagram: [_radon_dev](https://www.instagram.com/_radon_dev)
 </div>
