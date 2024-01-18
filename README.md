@@ -11,7 +11,7 @@ Here are some of the technologies I've been working with:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,sass,git,github,bootstrap,tailwind,vue,nuxt,javascript,typescript,postman" />
+    <img src="https://skillicons.dev/icons?i=vscode,sass,vue,nuxt,tailwind,javascript,typescript,git,github,postman,bootstrap" />
   </a>
 </p>
 
