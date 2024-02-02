@@ -15,7 +15,7 @@ In my personal life, I aim to be highly organized. I relish waking up at 4 AM, e
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,sass,vue,nuxt,tailwind,javascript,typescript,git,github,postman,bootstrap,canvas" />
+    <img src="https://skillicons.dev/icons?i=vscode,sass,vue,nuxt,tailwind,javascript,typescript,git,github,postman,bootstrap" />
   </a>
 </p>
 
