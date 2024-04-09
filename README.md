@@ -6,8 +6,6 @@
 My name is Reza Golnari, and I have been working in the field of programming and website development for several years.
 In my personal life, I aim to be highly organized. I relish waking up at 4 AM, enjoy working out and bodybuilding, and love maintaining a healthy lifestyle.
 
-- 🌱 I’m currently learning **Canvas , React and React Native**
-
 - 💬 Ask me about **Vue , Nuxt , Javascript and Typescript**
 
 - 📫 How to reach me **+989137180158**
@@ -15,7 +13,7 @@ In my personal life, I aim to be highly organized. I relish waking up at 4 AM, e
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,sass,vue,nuxt,tailwind,javascript,typescript,git,github,postman,bootstrap,vuetify" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,vue,nuxt,tailwind,javascript,typescript,jest,git,github,postman,bootstrap,vuetify" />
   </a>
 </p>
 
