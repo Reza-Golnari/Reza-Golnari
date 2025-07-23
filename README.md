@@ -3,10 +3,12 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ## About Me
-My name is Reza Golnari, and I have been working in the field of programming and website development for several years.
-In my personal life, I aim to be highly organized. I relish waking up at 4 AM, enjoy working out and bodybuilding, and love maintaining a healthy lifestyle.
+Hi, I'm Reza Golnari — a passionate developer who loves solving challenges and constantly learning new things. I started my journey with frontend development, and over time, I've evolved into a full-stack MEVN developer.
 
-- 💬 Ask me about **Vue , Nuxt , Javascript and Typescript**
+I enjoy working on exciting projects, collaborating with others, and writing clean, efficient code. I'm also into fitness, healthy routines, and keeping a balanced lifestyle. Whether it's pushing pixels or pushing code, I’m always up for a good challenge.
+
+
+- 💬 Ask me about **Vue , Nuxt , Javascript and Typescript , Node.js and Express**
 
 - 📫 How to reach me **+989137180158**
 
@@ -14,6 +16,11 @@ In my personal life, I aim to be highly organized. I relish waking up at 4 AM, e
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sass,vue,nuxt,tailwind,javascript,typescript,jest,git,github,postman,bootstrap,vuetify,regex" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=node,express,mongodb,redis,bullMQ" />
   </a>
 </p>
 
