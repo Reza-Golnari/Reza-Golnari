@@ -15,12 +15,7 @@ I enjoy working on exciting projects, collaborating with others, and writing cle
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sass,vue,nuxt,tailwind,javascript,typescript,jest,git,github,postman,bootstrap,vuetify,regex" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,insomnia" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,nuxt,nodejs,express,mongodb,redis,jest,git,tailwind,bootstrap,vuetify,sass,postman,regex" />
   </a>
 </p>
 
