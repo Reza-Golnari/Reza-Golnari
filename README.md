@@ -37,8 +37,8 @@ I enjoy working on exciting projects, collaborating with others, and writing cle
   
 I'm always open to new challenges and opportunities to grow. Let's connect and create something amazing together!
 ## Connect with me:
-- Email: [i.am.reza.programmer@gmail.com](mailto:i.am.reza.programmer@gmail.com)
+- Email: [reza.golnari2007@gmail.com](mailto:reza.golnari2007@gmail.com)
 - Phone: +989137180158
-- Telegram: [@radon_dev](https://t.me/radon_dev)
-- Instagram: [_radon_dev](https://www.instagram.com/_radon_dev)
+- Telegram: [@aqareza_me](https://t.me/aqareza_me)
+- Instagram: [aqareza_me](https://www.instagram.com/aqareza_me)
 </div>
