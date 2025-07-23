@@ -20,7 +20,7 @@ I enjoy working on exciting projects, collaborating with others, and writing cle
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,insomnia" />
   </a>
 </p>
 
