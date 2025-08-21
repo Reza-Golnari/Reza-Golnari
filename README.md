@@ -19,6 +19,8 @@ I enjoy working on exciting projects, collaborating with others, and writing cle
   </a>
 </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Reza-Golnari&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reza-Golnari/Reza-Golnari/output/github-contribution-grid-snake-dark.svg">
