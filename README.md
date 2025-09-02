@@ -15,11 +15,9 @@ I enjoy working on exciting projects, collaborating with others, and writing cle
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,nuxt,nodejs,express,mongodb,redis,jest,git,tailwind,bootstrap,vuetify,sass,postman,regex,bun" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,nuxt,nodejs,express,mongodb,redis,jest,git,tailwind,bootstrap,vuetify,sass,postman,regex,bun,docker" />
   </a>
 </p>
-
-[[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Reza-Golnari&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)]: #
 
 <div align="center">
   <picture>
